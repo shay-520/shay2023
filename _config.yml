@@ -52,8 +52,7 @@ minima:
 header_pages:
   - about.md
 mastodon:
- - username: bilibili
-   instance: https://space.bilibili.com/39783002
+ - instance: "https://space.bilibili.com/39783002"
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
